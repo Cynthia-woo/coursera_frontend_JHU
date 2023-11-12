@@ -22,7 +22,7 @@ h1{
 .item{
     font-size: 1.25em;
     line-height: 1.75em;
-    border: 2px black solid;
+    border: 1px black solid;
     box-sizing: border-box;
     position:absolute;
     right:10px;
@@ -43,7 +43,7 @@ h1{
 .item_desc{
     margin:10px;
     box-sizing: border-box;
-    border: 2px black solid;
+    border: 1px black solid;
     background-color: lightgray;
     padding: 40px 10px 10px;
 
